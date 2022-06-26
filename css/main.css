@@ -14,7 +14,7 @@ html {
 body {
     min-height: 100vh;
     width: 100%;
-    background-color: goldenrod;
+    background-color: rgb(165, 194, 148);
     padding: 8rem 4rem;
     letter-spacing: .1rem;
     font-family: 'Poppins', sans-serif;
@@ -37,6 +37,7 @@ img {
     max-width: 30rem;
     max-height: 30rem;
     border-radius: 10px;
+    box-shadow: 0 5px 10px rgb(108, 139, 60);
 }
 
 /* main container */
@@ -96,7 +97,7 @@ img {
     
 }
 .btn:hover {
-    background-color: rgb(255, 229, 163);
+    background-color: rgb(174, 189, 166);
     cursor: pointer;
     transform: scale(.9) rotate(-45deg);
 }
