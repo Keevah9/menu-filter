@@ -60,7 +60,7 @@ let menuItems = [
       title: 'salads',
       category: 'breakfast',
       price: 15.99,
-      img: './images/salad.jpeg',
+      img: './images/snacks.jpeg',
       desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam modi, nesciunt amet voluptatibus totam ducimus?' 
     },
     {
