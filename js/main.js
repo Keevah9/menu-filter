@@ -1,74 +1,82 @@
 let menuItems = [
     {
       id: 1,
-      title: 'toast',
+      title: 'pancakes',
       category: 'breakfast',
       price: 15.99,
-      img: './images/pexels-photo-1279330.webp',
+      img: './images/pamcakes.jpeg',
       desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam modi, nesciunt amet voluptatibus totam ducimus?' 
     },
     {
       id: 2,
-      title: 'potato',
+      title: 'pasta',
       category: 'lunch',
       price: 15.99,
-      img: './images/pexels-photo-1279330.webp',
+      img: './images/pasta.jpeg',
       desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam modi, nesciunt amet voluptatibus totam ducimus?' 
     },
     {
       id: 3,
-      title: 'buttermilk pancakes',
-      category: 'dinner',
+      title: 'fruits salad',
+      category: 'breakfast',
       price: 15.99,
-      img: './images/pexels-photo-1279330.webp',
+      img: './images/fruitssalad.jpeg',
       desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam modi, nesciunt amet voluptatibus totam ducimus?' 
     },
     {
       id: 4,
-      title: 'butter rice',
-      category: 'breakfast',
+      title: 'rice',
+      category: 'dinner',
       price: 15.99,
-      img: './images/pexels-photo-1279330.webp',
+      img: './images/rice.jpeg',
       desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam modi, nesciunt amet voluptatibus totam ducimus?' 
     },
     {
       id: 5,
-      title: 'pancakes',
+      title: 'burger chips',
       category: 'lunch',
       price: 15.99,
-      img: './images/pexels-photo-1279330.webp',
+      img: './images/burgerchips.jpeg',
       desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam modi, nesciunt amet voluptatibus totam ducimus?' 
     },
     {
       id: 6,
-      title: 'salad',
+      title: 'stake',
       category: 'dinner',
       price: 15.99,
-      img: './images/pexels-photo-1279330.webp',
+      img: './images/stake.jpeg',
       desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam modi, nesciunt amet voluptatibus totam ducimus?' 
     },
     {
       id: 7,
-      title: 'beans',
+      title: 'pizza',
       category: 'lunch',
       price: 15.99,
-      img: './images/pexels-photo-1279330.webp',
+      img: './images/pizza.jpeg',
       desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam modi, nesciunt amet voluptatibus totam ducimus?' 
     },
     {
       id: 8,
-      title: 'fruits',
+      title: 'salads',
       category: 'breakfast',
       price: 15.99,
-      img: './images/pexels-photo-1279330.webp',
+      img: './images/salad.jpeg',
       desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam modi, nesciunt amet voluptatibus totam ducimus?' 
     },
     {
       id: 9,
-      title: 'sphag',
-      category: 'lunch',
+      title: 'toast',
+      category: 'dinner',
       price: 15.99,
-      img: './images/pexels-photo-1279330.webp',
+      img: './images/toast.jpeg',
+      desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam modi, nesciunt amet voluptatibus totam ducimus?' 
+    },
+    {
+      id: 8,
+      title: 'chips',
+      category: 'breakfast',
+      price: 15.99,
+      img: './images/chips.webp',
       desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam modi, nesciunt amet voluptatibus totam ducimus?' 
     }
 ]
