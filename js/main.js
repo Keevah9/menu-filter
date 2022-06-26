@@ -131,6 +131,39 @@ function displayMenuItems (menu){
                 </div>    
             </div>
         `
+        
+        // let divContainer = document.createElement('div')
+        // let divGen = document.createElement('div')
+        // let divContent = document.createElement('div')
+        // let divLine = document.createElement('div')
+        // let image = document.createElement('img')
+        // let divHeader = document.createElement('h3')
+        // let divSpan = document.createElement('span')
+        // let divPara = document.createElement('p')
+        // let attriOne = image.setAttribute('src', `${item.img}`)
+        // let atrriItem = divContainer.setAttribute('class', 'items' )
+        // let attriGen = divGen.setAttribute('class', 'gen')
+        // let attriContent = divContent.setAttribute('class', 'contentText')
+        // let attriLine = divLine.setAttribute('class', 'lines')
+        // let attriSpan = divSpan.setAttribute('class', 'price')
+        // let testContent = document.createTextNode(`${item.desc}`)
+        // let spanHead = document.createTextNode(`$${item.price}`)
+
+        // let testContentHead = document.createTextNode(`${item.title}`)
+        // console.log(image);
+        // divPara.appendChild(testContent)
+        // divHeader.appendChild(testContentHead)
+        // divSpan.appendChild(spanHead)
+        // divHeader.appendChild(divSpan)
+        // divContent.appendChild(divHeader)
+        // divContent.appendChild(divLine)
+        // divContent.appendChild(divPara)
+        // divGen.appendChild(image)
+        // divGen.appendChild(divContent)
+        // divContainer.appendChild(divGen)
+        // mainContainer.appendChild(divContainer)
+        // console.log(divSpan)
+        
     })
     // joins the items together
     displayMenu = displayMenu.join('')
